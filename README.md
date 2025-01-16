@@ -21,9 +21,9 @@ e executado com o comando:
 ./main
 ```
 
-#### Pergunta 3
+#### Pergunta 3, 4 & 5
 
-A terceira pergunta contém um arquivo chamado main.js que pode ser executado com o comando:
+Para as perguntas 3, 4 e 5, você pode executar o arquivo main.js dentro de sua pasta correspondente com o comando:
 
 ```bash
 node main.js
